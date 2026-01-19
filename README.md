@@ -4,6 +4,16 @@ Real-time order tracking, notifications, live chat, and delivery map tracking
 
 ---
 
+## 🎥 Project Demo Video (LinkedIn Preview)
+
+🚀 **Important:** I posted a short and simple explanation video about a key part of this project on LinkedIn.  
+You can watch the demo video from the link below:
+
+👉 **Watch on LinkedIn:**  
+🔗 https://www.linkedin.com/posts/omar-abdelqader-0b0b40332_explaining-a-key-part-of-a-full-store-web-activity-7353411754720124929-VM5G?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFPRaIQB_TFdZuzP41kbM8EYlSk02t5rcqc
+
+---
+
 ## 📌 Project Overview
 Pet Shop Delivery Platform is a full-stack web application designed to manage an entire pet store ordering and delivery workflow in a professional and organized way.  
 The system includes **three main roles**:
